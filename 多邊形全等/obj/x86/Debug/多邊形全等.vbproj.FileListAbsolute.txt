@@ -1,0 +1,9 @@
+H:\多邊形全等\多邊形全等\bin\Debug\多邊形全等.exe
+H:\多邊形全等\多邊形全等\bin\Debug\多邊形全等.pdb
+H:\多邊形全等\多邊形全等\bin\Debug\多邊形全等.xml
+H:\多邊形全等\多邊形全等\obj\x86\Debug\多邊形全等.Form1.resources
+H:\多邊形全等\多邊形全等\obj\x86\Debug\多邊形全等.Resources.resources
+H:\多邊形全等\多邊形全等\obj\x86\Debug\多邊形全等.vbproj.GenerateResource.Cache
+H:\多邊形全等\多邊形全等\obj\x86\Debug\多邊形全等.exe
+H:\多邊形全等\多邊形全等\obj\x86\Debug\多邊形全等.xml
+H:\多邊形全等\多邊形全等\obj\x86\Debug\多邊形全等.pdb
